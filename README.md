@@ -8,5 +8,5 @@ To compare this model with SOTA we use the model - Faster RCNN. The weaaknesses 
 - **Unable to detect incomplete or small humans:** For the SVM classifier to work, there must be complete humans with whole features visible. To deal with multiple size humans we use a multi-scale gaussian pyramid but even that is not enough to capture tiny humans.
 
 ## Predictions
-Some predictions of the model are as follows- <br\>
+Some predictions of the model are as follows- <br />
 ![FudanPed00055](https://user-images.githubusercontent.com/12653667/144895787-2ca92e3c-bf1c-4692-aa12-59b8c8956f0f.png) ![PennPed00062](https://user-images.githubusercontent.com/12653667/144895817-5ab630b6-a56e-444f-b20f-1cc049e5a6c5.png) ![PennPed00069](https://user-images.githubusercontent.com/12653667/144895905-6bfec0f6-15f4-4c3c-add8-a1d5d30c0b6e.png)
