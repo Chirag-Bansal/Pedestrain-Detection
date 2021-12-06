@@ -9,4 +9,4 @@ To compare this model with SOTA we use the model - Faster RCNN. The weaaknesses 
 
 ## Predictions
 Some predictions of the model are as follows- <br />
-<img src="https://user-images.githubusercontent.com/12653667/144895787-2ca92e3c-bf1c-4692-aa12-59b8c8956f0f.png" width="500" height="500"> <img src="https://user-images.githubusercontent.com/12653667/144895817-5ab630b6-a56e-444f-b20f-1cc049e5a6c5.png" width="500" height="500"> <img src="https://user-images.githubusercontent.com/12653667/144895905-6bfec0f6-15f4-4c3c-add8-a1d5d30c0b6e.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/12653667/144895787-2ca92e3c-bf1c-4692-aa12-59b8c8956f0f.png" width="300" height="300"> <img src="https://user-images.githubusercontent.com/12653667/144895817-5ab630b6-a56e-444f-b20f-1cc049e5a6c5.png" width="300" height="300"> <img src="https://user-images.githubusercontent.com/12653667/144895905-6bfec0f6-15f4-4c3c-add8-a1d5d30c0b6e.png" width="300" height="300">
